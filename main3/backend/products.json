@@ -1,0 +1,47 @@
+[
+  {
+    "name": "кот1",
+    "price": 10,
+    "description": "первый кот",
+    "category": [
+      "коты"
+    ],
+    "id": 1
+  },
+  {
+    "name": "кот2",
+    "price": 25,
+    "description": "второй кот",
+    "category": [
+      "коты"
+    ],
+    "id": 2
+  },
+  {
+    "name": "фывавыфафыв",
+    "price": 666,
+    "description": "фаывадфо",
+    "category": [
+      "фыавфвыаы"
+    ],
+    "id": 3
+  },
+  {
+    "name": "незнаю",
+    "price": 7,
+    "description": "тоже незнаю",
+    "category": [
+      "ваще незнаю"
+    ],
+    "id": 4
+  },
+  {
+    "name": "MR ZXCRUTOI",
+    "price": 100,
+    "description": "asf",
+    "category": [
+      "SADFSA"
+    ],
+    "id": 5
+  }
+]
