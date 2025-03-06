@@ -20,8 +20,7 @@
 Откройте терминал и выполните команду для клонирования репозитория:
 
 ```bash
-git clone https://github.com/sloobman/frontend3.git
-cd frontend3
+git clone https://github.com/bbdemond/FRONTEND4/
 ```
 
 ---
@@ -61,7 +60,7 @@ Admin server: http://localhost:8080
 #### **GraphQL-сервер (порт 4000)**
 ```bash
 cd main3
-node backend/graphql-server.js
+node graphql.js
 ```
 После запуска вы увидите сообщение:
 ```
@@ -71,7 +70,7 @@ GraphQL server: http://localhost:4000
 #### **WebSocket-сервер (порт 8081)**
 ```bash
 cd main3
-node backend/websocket-server.js
+node backend/server.js
 ```
 После запуска вы увидите сообщение:
 ```
